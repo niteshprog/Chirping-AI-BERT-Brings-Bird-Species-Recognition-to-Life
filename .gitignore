@@ -1,4 +1,8 @@
 data/.ipynb_checkpoints
+<<<<<<< HEAD
 *.csv
 /birds-audio
 /downloads
+=======
+data/audio_list.csv
+>>>>>>> a42c6c52a482f4e7d6985c2069b236d80b75ffd6
