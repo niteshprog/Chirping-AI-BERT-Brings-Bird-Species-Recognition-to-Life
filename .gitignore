@@ -1,2 +1,4 @@
-.ipynb_checkpoints
-data/audio_list.csv
+data/.ipynb_checkpoints
+*.csv
+/birds-audio
+/downloads
